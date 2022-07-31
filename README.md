@@ -22,5 +22,7 @@
   
 </div><br/>
 
+![Snake animation](https://github.com/W3ndell-S04/W3ndell-S04/blob/output/github-contribution-grid-snake.svg)
+
 
 
