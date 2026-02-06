@@ -16,17 +16,17 @@ Atualmente atuo na sustentação de ambientes críticos na **Justiça Federal**,
 ### 📁 Meus Projetos de Destaque
 
 #### 🌐 Redes & Segurança
-- **[Calculadora de Sub-rede (C)](link):** Cálculo preciso de máscaras, CIDR e ranges de IP.
-- **[Port Scanner (Python)](link):** Auditoria de serviços e portas abertas em hosts.
-- **[Validador de Hash (PowerShell)](link):** Garantia de integridade para arquivos sensíveis.
+- **[Calculadora de Sub-rede (C)](https://github.com/W3ndell-S04/Calcular-Mascara-de-Sub-Rede-em-C):** Cálculo preciso de máscaras, CIDR e ranges de IP.
+- **[Port Scanner (Python)](https://github.com/W3ndell-S04/port-scanner-py):** Auditoria de serviços e portas abertas em hosts.
+- **[Validador de Hash (PowerShell)](https://github.com/W3ndell-S04/ComparadorDeHash):** Garantia de integridade para arquivos sensíveis.
 
 #### 🤖 Automação & Produtividade
-- **[Conversor XML (Python GUI)](link):** Transformação de dados técnicos em relatórios PDF/Excel para usuários finais.
-- **[Bot Organizador de Arquivos (Python)](link):** Gestão automatizada de diretórios por extensão.
-- **[Compressor de Imagens (Python)](link):** Otimização de storage para evidências de chamados.
+- **[Conversor XML (Python GUI)](https://github.com/W3ndell-S04/ConversorXML):** Transformação de dados técnicos em relatórios PDF/Excel para usuários finais.
+- **[Bot Organizador de Arquivos (Python)](https://github.com/W3ndell-S04/bot_python):** Gestão automatizada de diretórios por extensão.
+- **[Compressor de Imagens (Python)](https://github.com/W3ndell-S04/compactador-de-imagem):** Otimização de storage para evidências de chamados.
 
 ---
 
 ### 📫 Como me encontrar
-- **LinkedIn:** [linkedin.com/in/seu-perfil](https://linkedin.com/in/seu-perfil)
+- **LinkedIn:** [https://www.linkedin.com/in/wendell-soares/](https://www.linkedin.com/in/wendell-soares/)
 - **Portfólio de Infra:** Atuando em ambientes corporativos de alta disponibilidade.
