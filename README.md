@@ -16,7 +16,7 @@ Atualmente atuo na sustentação de ambientes críticos na **Justiça Federal**,
 ### 📁 Meus Projetos de Destaque
 
 #### 🌐 Redes & Segurança
-- **[Calculadora de Sub-rede (C)](https://github.com/W3ndell-S04/Calcular-Mascara-de-Sub-Rede-em-C):** Cálculo preciso de máscaras, CIDR e ranges de IP.
+- **[IDOR Scanner (Python)](https://github.com/W3ndell-S04/valhalla_idor_scanner):** Cálculo preciso de máscaras, CIDR e ranges de IP.
 - **[Port Scanner (Python)](https://github.com/W3ndell-S04/port-scanner-py):** Auditoria de serviços e portas abertas em hosts.
 - **[Validador de Hash (PowerShell)](https://github.com/W3ndell-S04/ComparadorDeHash):** Garantia de integridade para arquivos sensíveis.
 
